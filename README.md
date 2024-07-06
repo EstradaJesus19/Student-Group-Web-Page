@@ -1,6 +1,6 @@
-# GEIFA Student Group Website
+# Student Group Website
 
-Welcome to the repository for the GEIFA Student Group website! This project includes various sections that represent the activities and resources of our group.
+Welcome to the repository for a Student Group website! This project includes various sections that represent the activities and resources of the group.
 
 ## Site structure
 
@@ -8,8 +8,8 @@ Welcome to the repository for the GEIFA Student Group website! This project incl
 - **Blogs**: A collection of blogs written by group members. Each blog covers interesting and current topics in science.
 - **Gallery**: A collection of photos and videos from group events and activities.
 - **Events**: Information about past and upcoming events organized by the group, including talks, seminars, and workshops.
-- **Publications**: A list of academic publications and articles written by our members.
-- **About Us**: Information about the group, our mission, team members, and contact details.
+- **Posts**: An embedded  instagram feed for showing posts and reels.
+- **About Us**: Information about the group, mission, team members, and contact details.
 
 ## Preview
 
@@ -87,15 +87,10 @@ To add a new blog, please create a copy of [blog0001.html](/blogs/blog-0001.html
     <p>First lines...<a href="blogs/blog-0001.html">Leer más</a></p>
 </div>
 ```
-Dont fotget to change category text font color as follows:
-
-- Personal: #e89d1c 
-- News: #cf6216
-- Scientific: #b7280f
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [jagallardo@uninorte.edu.co](mailto:jagallardo@uninorte.edu.co).
+If you have any questions or suggestions, feel free to contact me at [my e-mail](mailto:jagallardo@uninorte.edu.co).
 
 ---
 
